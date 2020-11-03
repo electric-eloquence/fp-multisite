@@ -1,0 +1,14 @@
+{
+  "name": "fp-multisite",
+  "version": "0.2.8",
+  "description": "Multisite extension for Fepper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electric-eloquence/fp-multisite.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/electric-eloquence/fp-multisite/issues"
+  },
+  "homepage": "https://github.com/electric-eloquence/fp-multisite#readme"
+}
